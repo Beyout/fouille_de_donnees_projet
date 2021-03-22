@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk1.8.0_241"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/leo22/Documents/DUT/2A/4S/3-TP-Fouille de données/weka-3-8-5/weka.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
